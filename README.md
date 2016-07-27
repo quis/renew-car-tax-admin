@@ -13,7 +13,7 @@ pip install virtualenv
 
 ## Install the app
 ```shell
-git clone git@github.com:quis/renew-car-tax-admin.git
+git clone git@github.com:quis/renew-car-tax-admin.git notify-fake-app
 cd notify-fake-app/
 virtualenv .venv
 source .venv/bin/activate
