@@ -13,7 +13,7 @@ pip install virtualenv
 
 ## Install the app
 ```shell
-git clone git@github.com:quis/renew-car-tax-admin.git
+git clone git@github.com:quis/user-research-admin-app.git
 cd renew-car-tax-admin/
 virtualenv .venv
 source .venv/bin/activate
